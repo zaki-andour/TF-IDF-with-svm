@@ -11,7 +11,7 @@ The system applies a traditional **Natural Language Processing (NLP)** workflow 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses the **BBC News Dataset**, which contains **2,225 articles** labeled into **five categories**.  
 (The dataset is available on Kaggle. The original paper used both BBC and 20 Newsgroups datasets, but only BBC was used here due to availability.)
@@ -25,7 +25,7 @@ Categories:
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project reproduces the methodology presented in the paper using **Python** and **scikit-learn**.  
 The text classification pipeline follows these main steps:
